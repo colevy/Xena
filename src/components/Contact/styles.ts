@@ -41,7 +41,7 @@ export const Container = styled.section`
         font-weight: 500;
       }
       &:hover{
-        background-color: var(--pink);
+        background-color:rgba(46, 44, 44, 0.97); /* Change to a lighter gray on hover */
         a{
           color: #FFF;
         }
@@ -49,26 +49,12 @@ export const Container = styled.section`
     }
   }
 
-
   @media(max-width: 960px){
     .contacts{
       flex-direction: column;
       div{
         width: 100%;
-        
       }
     }
   }
-  
-`
-/* old one - 2/1/2023 - 
-@media(max-width: 960px){
-    .contacts{
-      flex-direction: column;
-      div{
-        width: 100%;
-        flex-direction: column;
-      }
-    }
-
-*/
+`;

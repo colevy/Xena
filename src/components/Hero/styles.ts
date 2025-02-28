@@ -24,7 +24,6 @@ export const Container = styled.section`
       margin-bottom: 5rem;
     }
   }
-// New added
   .social-media{
     display: inline-flex;
     align-items: center;
@@ -39,7 +38,6 @@ export const Container = styled.section`
     }
   }
 
-
   .button{
     margin-top: 5rem;
     padding: 1.4rem 6rem;
@@ -48,9 +46,9 @@ export const Container = styled.section`
   .hero-image{
     img{
       max-width: 1000px;
+      margin-left: 525px; /* Increase this value to move the image further away */
     }
   }
-
 
   @media(max-width: 960px){
     display: block;

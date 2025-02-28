@@ -10,7 +10,6 @@ import jsIcon from "../../assets/js-icon.svg";
 import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
-import boostrapIcon from "../../assets/bootstrap-icon.svg";
 
 export function Main() {
   return (
@@ -144,11 +143,6 @@ export function Main() {
                 "weight": "400"
               },
               "image": [
-                {
-                  "src": boostrapIcon,
-                  "width": 20,
-                  "height": 20
-                },
                 {
                   "src": cssIcon,
                   "width": 20,
