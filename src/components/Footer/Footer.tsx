@@ -4,18 +4,18 @@ import linkedin from '../../assets/linkedin.svg'
 import githubIcon from '../../assets/github.svg'
 import whatsapp from '../../assets/whatsapp.svg'
 import telegram from '../../assets/telegram.svg'
-import instagramIcon from '../../assets/instagram.svg'
+{/*import instagramIcon from '../../assets/instagram.svg'*/}
 
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://colelevy.in" className="logo">
+      <a href="https://colelevy.com" className="logo">
         <span>www.cole</span>
-        <span>levy.in</span>
+        <span>levy.com</span>
       </a>
       <div>
         <p>
-          This Website was made with <img src={reactIcon} alt="React" />
+          This Website was made with React <img src={reactIcon} alt="React" />
           {/* <span>❤️</span> */}
         </p>
       </div>
@@ -48,13 +48,13 @@ export function Footer() {
         >
           <img src={telegram} alt="telegram" />
         </a>
-        <a
+        {/* <a
           href="https://www.instagram.com/colevy/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={instagramIcon} alt="Instagram" />
-        </a>
+        </a> */}
       </div>
     </Container>
   )

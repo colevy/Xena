@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://colelevy08.github.io/Portfolio2025",
   "dependencies": {
     "@formspree/react": "^2.2.4",
     "@testing-library/jest-dom": "^5.14.1",
@@ -12,8 +13,8 @@
     "@types/react": "^17.0.20",
     "@types/react-dom": "^17.0.9",
     "@vercel/analytics": "^1.4.1",
-      "gh-pages": "^6.3.0",
-  "react": "^17.0.2",
+    "gh-pages": "^6.3.0",
+    "react": "^17.0.2",
     "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^17.0.2",
     "react-google-recaptcha": "^2.1.0",
@@ -31,7 +32,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
