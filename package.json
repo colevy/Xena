@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://colelevy08.github.io/Portfolio2025",
+  "homepage": "https://colelevy08.github.io/Portfolio25",
   "dependencies": {
     "@formspree/react": "^2.2.4",
     "@testing-library/jest-dom": "^5.14.1",
@@ -13,7 +13,6 @@
     "@types/react": "^17.0.20",
     "@types/react-dom": "^17.0.9",
     "@vercel/analytics": "^1.4.1",
-    "gh-pages": "^6.3.0",
     "react": "^17.0.2",
     "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^17.0.2",
@@ -59,6 +58,7 @@
     "@types/react-google-recaptcha": "^2.1.2",
     "@types/react-router-hash-link": "^2.4.4",
     "@types/styled-components": "^5.1.18",
-    "@types/validator": "^13.7.1"
+    "@types/validator": "^13.7.1",
+    "gh-pages": "^6.3.0"
   }
 }

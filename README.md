@@ -47,11 +47,7 @@ npm start
 ```
 This will start the development server and open the application in your default browser.
 
-### Deployment
-To deploy the project to GitHub Pages, use:
-```bash
-npm run deploy
-```
+
 
 ## Contact
 Cole Levy - [colelevy.com](https://colelevy.com) - [LinkedIn](https://www.linkedin.com/in/colelevy) - [GitHub](https://github.com/colelevy08)
