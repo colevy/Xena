@@ -1,6 +1,6 @@
 # Portfolio of Cole Levy
 
-![Portfolio Screenshot](https://private-user-images.githubusercontent.com/25750270/417798831-0a65c877-1bc5-4ccc-abf7-b71b6aa8e5e9.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA2OTM4MTksIm5iZiI6MTc0MDY5MzUxOSwicGF0aCI6Ii8yNTc1MDI3MC80MTc3OTg4MzEtMGE2NWM4NzctMWJjNS00Y2NjLWFiZjctYjcxYjZhYThlNWU5LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyN1QyMTU4MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMDllNzU0NTBiMTliOGI1ZTkxZWY0ZDdjNWQzNjRjNDY1N2Y2YmE0MjFjNGRiMTE5YjE0MTFhMWUzODVhNDlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._DIz5NrlsoFgMkjn-Go1gwYze_xgbaLMlqhEbcomFWM)
+![Portfolio Screenshot](https://private-user-images.githubusercontent.com/25750270/418181196-c3817986-9045-41fa-9538-98b1a72f92b0.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA3Nzk0MDQsIm5iZiI6MTc0MDc3OTEwNCwicGF0aCI6Ii8yNTc1MDI3MC80MTgxODExOTYtYzM4MTc5ODYtOTA0NS00MWZhLTk1MzgtOThiMWE3MmY5MmIwLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyOFQyMTQ1MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMWYwMDE2ODRkMDVlMmUzYzMwODdhMTExYTdhM2IyZjA0NWE4ZTg1ZTExNGU0YWUwN2MzNzBlZjdlZmE0NDU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UtcqzFrT_LHtsNfyuACOemhsU5N1zIdBnHUbTs0d8Tk)
 
 This project was created with Create React App (CRA).
 
@@ -20,34 +20,13 @@ This is my portfolio website to introduce myself, showcasing my skills, projects
 - Social media links
 - Smooth scrolling
 
-## Getting Started
-To get a local copy up and running, follow these simple steps.
+## Deployment
 
-### Prerequisites
-- Node.js and npm installed on your machine.
+This project is deployed using GitHub Pages.
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/colelevy08/Portfolio2025.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Portfolio2025
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
+## Usage
 
-### Running the Project
-To run the project locally, use:
-```bash
-npm start
-```
-This will start the development server and open the application in your default browser.
-
-
+To view the portfolio, visit [https://colelevy08.github.io/Portfolio25](https://colelevy08.github.io/Portfolio25).
 
 ## Contact
 Cole Levy - [colelevy.com](https://colelevy.com) - [LinkedIn](https://www.linkedin.com/in/colelevy) - [GitHub](https://github.com/colelevy08)
