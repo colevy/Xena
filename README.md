@@ -1,0 +1,16 @@
+# Portfolio of Cole Levy
+
+<img src ="https://private-user-images.githubusercontent.com/25750270/417798831-0a65c877-1bc5-4ccc-abf7-b71b6aa8e5e9.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA2OTM4MTksIm5iZiI6MTc0MDY5MzUxOSwicGF0aCI6Ii8yNTc1MDI3MC80MTc3OTg4MzEtMGE2NWM4NzctMWJjNS00Y2NjLWFiZjctYjcxYjZhYThlNWU5LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyN1QyMTU4MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMDllNzU0NTBiMTliOGI1ZTkxZWY0ZDdjNWQzNjRjNDY1N2Y2YmE0MjFjNGRiMTE5YjE0MTFhMWUzODVhNDlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._DIz5NrlsoFgMkjn-Go1gwYze_xgbaLMlqhEbcomFWM />
+ 
+This project was created with CRA (Create React App)
+
+This is my portfolio website to introduce myself, here I put my skills, projects, and contact details.
+
+## Technologies used:
+- React
+- Typescript
+- Styled Components
+ 
+## To run this project:
+- yarn install
+- yarn run start
