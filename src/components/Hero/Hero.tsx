@@ -60,9 +60,9 @@ export function Hero() {
         </a></div>
         </ScrollAnimation>
       </div>
-      <div className="hero-image" style={{ flex: 1, display: 'flex', justifyContent: 'center', marginRight: '60px' }}>
-        <ScrollAnimation animateIn="fadeInRight" delay={1 * 1000}>
-          <img src={colelevypicture} alt="colelevypicture" style={{ width: '375px', height: 'auto' }} />
+      <div className="hero-image">
+        <ScrollAnimation animateIn="fadeInRight" delay={0.20 * 1000}>
+          <img src={colelevypicture} alt="colelevypicture" style={{ width: '150%', height: 'auto', maxWidth: '800px', margin: '0 auto' }} />
         </ScrollAnimation>
       </div>
     </Container>

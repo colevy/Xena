@@ -2,7 +2,7 @@ import { Container } from './styles';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { NavHashLink, HashLink } from 'react-router-hash-link';
 import { useState } from 'react';
-import Resume from '../../assets/ColeLevy-Software.pdf';
+import Resume from '../../assets/ColeLevy-Software25.pdf';
 
 export function Header() {
   const [isActive, setActive] = useState(false);
@@ -10,6 +10,10 @@ export function Header() {
   function toggleTheme() {
     let html = document.getElementsByTagName('html')[0];
     html.classList.toggle('light');
+    let history = document.getElementById('history');
+    if (history) {
+      history.classList.toggle('light');
+    }
   }
 
   function closeMenu() {

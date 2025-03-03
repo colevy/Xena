@@ -29,6 +29,13 @@ export const Container = styled.section`
       grid-template-columns: 1fr;
     }
   }
+
+  &.light {
+
+    h2 {
+      color: #000;
+    }
+  }
 `;
 
 export const Subtitle = styled.h3`

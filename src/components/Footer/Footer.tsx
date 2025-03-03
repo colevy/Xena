@@ -9,9 +9,8 @@ import telegram from '../../assets/telegram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://colelevy.com" className="logo">
-        <span>www.cole</span>
-        <span>levy.com</span>
+      <a href="https://colelevy08.github.io/Portfolio25/" className="logo">
+        <span>Cole Levy's Portfolio </span>
       </a>
       <div>
         <p>
