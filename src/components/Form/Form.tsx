@@ -18,7 +18,7 @@ export function Form() {
 
     return (
       <ContainerSucces>
-        <h3>Message sent!</h3>
+        <h3>Message sent! Can't wait to read all the hate mail thanks so much dude.</h3>
         <button
           style={{ margin: '10px' }}
           onClick={() => {
@@ -42,13 +42,13 @@ export function Form() {
 
   return (
     <Container>
-      <h2>Get in touch using the form</h2>
+      <h2>Touch me</h2>
       <form onSubmit={handleSubmit}>
         <label htmlFor="email">Email Address</label>
         <input id="email" type="email" name="email" required />
         <ValidationError prefix="Email" field="email" errors={state.errors} />
         
-        <label htmlFor="message">Message</label>
+        <label htmlFor="message">Message me baby cakes</label>
         <textarea id="message" name="message" required />
         <ValidationError prefix="Message" field="message" errors={state.errors} />
         

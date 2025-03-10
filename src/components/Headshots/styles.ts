@@ -8,7 +8,7 @@ export const Container = styled.section`
     font-size: 4rem;
     margin-bottom: 3rem;
   }
-  .projects{
+  .headshots{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto;
@@ -16,7 +16,7 @@ export const Container = styled.section`
     padding: 1rem;
     overflow: hidden;
 
-    .project{
+    .headshot{
       padding: 2rem 1.8rem;
       background-color: #2b2b2b;
       border-radius: 1.2rem;

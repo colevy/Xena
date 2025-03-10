@@ -24,8 +24,8 @@ export function Header() {
     <Container className="header-fixed">
       <Router>
         <HashLink smooth to="#home" className="logo">
-          <span>{"<Cole "}</span>
-          <span>{" Levy>"}</span>
+          <span>{"Xena "}</span>
+          <span>{" White>"}</span>
         </HashLink>
         <input
           onChange={toggleTheme}
@@ -42,8 +42,8 @@ export function Header() {
           <NavHashLink smooth to="#about" onClick={closeMenu}>
             About me
           </NavHashLink>
-          <NavHashLink smooth to="#project" onClick={closeMenu}>
-            Project
+          <NavHashLink smooth to="#headshots" onClick={closeMenu}>
+            Headshots
           </NavHashLink>          
           <NavHashLink smooth to="#history" onClick={closeMenu}>
             History
