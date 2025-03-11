@@ -44,16 +44,16 @@ export function Form() {
     <Container>
       <h2>Touch me</h2>
       <form onSubmit={handleSubmit}>
-        <label htmlFor="email">Email Address</label>
+        <label htmlFor="email">What's your name baby? You cute or whateva</label>
         <input id="email" type="email" name="email" required />
         <ValidationError prefix="Email" field="email" errors={state.errors} />
         
-        <label htmlFor="message">Message me baby cakes</label>
+        <label htmlFor="message">Slide into my DM's</label>
         <textarea id="message" name="message" required />
         <ValidationError prefix="Message" field="message" errors={state.errors} />
         
         <button type="submit" disabled={state.submitting}>
-          Submit
+          Submit (to me)
         </button>
       </form>
       <ToastContainer />

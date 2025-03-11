@@ -5,7 +5,7 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://colelevy08.github.io/Portfolio25/" className="logo">
+      <a href="https://colevy.github.io/Xena" className="logo">
         <span>Xena White's Dungeon </span>
       </a>
       <div>
