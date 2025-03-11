@@ -1,29 +1,28 @@
 {
   "files": {
     "main.css": "/Xena/static/css/main.039bf95e.css",
-    "main.js": "/Xena/static/js/main.a8427877.js",
+    "main.js": "/Xena/static/js/main.c5a73a0c.js",
     "static/media/drink.png": "/Xena/static/media/drink.258040ebc7c3b7f53b23.png",
     "static/media/disco.png": "/Xena/static/media/disco.43add1867be2171f28b1.png",
     "static/media/Hello.gif": "/Xena/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/finger.png": "/Xena/static/media/finger.30de5c471fad1250d1c4.png",
+    "static/media/discoball.png": "/Xena/static/media/discoball.70b392a965f98c0dec9b.png",
+    "static/media/biglips.png": "/Xena/static/media/biglips.1c97d7aea9382a0521f9.png",
     "static/media/harry.png": "/Xena/static/media/harry.0b4dfbefaec35fbe89e4.png",
     "static/media/glasses.png": "/Xena/static/media/glasses.c959686ed0c933af731c.png",
-    "static/media/ColeLevy-Software25.pdf": "/Xena/static/media/ColeLevy-Software25.303a299f80cf40bbca53.pdf",
-    "static/media/node-icon.svg": "/Xena/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
-    "static/media/typescript-icon.svg": "/Xena/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
+    "static/media/body.png": "/Xena/static/media/body.9da6c428aadc876afc47.png",
+    "static/media/strap.png": "/Xena/static/media/strap.b2e8774652008937cce0.png",
+    "static/media/demon.png": "/Xena/static/media/demon.f69566aa82efd22e2206.png",
     "static/media/react-icon.svg": "/Xena/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
     "index.html": "/Xena/index.html",
     "static/media/instagram.svg": "/Xena/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
     "static/media/phone-icon.svg": "/Xena/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
     "static/media/email-icon.svg": "/Xena/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
-    "static/media/html-icon.svg": "/Xena/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
-    "static/media/css-icon.svg": "/Xena/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
-    "static/media/js-icon.svg": "/Xena/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "main.039bf95e.css.map": "/Xena/static/css/main.039bf95e.css.map",
-    "main.a8427877.js.map": "/Xena/static/js/main.a8427877.js.map"
+    "main.c5a73a0c.js.map": "/Xena/static/js/main.c5a73a0c.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.a8427877.js"
+    "static/js/main.c5a73a0c.js"
   ]
 }
