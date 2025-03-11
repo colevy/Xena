@@ -3,12 +3,13 @@ import styled from "styled-components";
 export const Container = styled.section`
   margin-top: 15rem;
   
-  h2{
+  h2 {
     text-align: center;
     font-size: 4rem;
     margin-bottom: 3rem;
   }
-  .headshots{
+
+  .headshots {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto;
@@ -16,7 +17,7 @@ export const Container = styled.section`
     padding: 1rem;
     overflow: hidden;
 
-    .headshot{
+    .headshot {
       padding: 2rem 1.8rem;
       background-color: #2b2b2b;
       border-radius: 1.2rem;
@@ -26,9 +27,16 @@ export const Container = styled.section`
       height: 100%;
       color: #FFF;
       cursor: pointer;
-      &:hover{
+
+      &:hover {
         transform: translateY(-5px);
         background-color: #1a1a1a; /* Darker grey color for hover */
+      }
+
+      img {
+        width: 100%;
+        height: auto;
+        border-radius: 1rem;
       }
 
       header{
@@ -72,14 +80,14 @@ export const Container = styled.section`
     }
   }
 
-  @media (max-width: 960px){
-    .projects{
+  @media (max-width: 960px) {
+    .headshots {
       grid-template-columns: 1fr 1fr;
     }
   }
 
-  @media (max-width: 740px){
-    .projects{
+  @media (max-width: 740px) {
+    .headshots {
       grid-template-columns: 1fr;
     }
   }

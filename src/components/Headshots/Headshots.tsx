@@ -5,7 +5,7 @@ import harryImage from "../../assets/harry.png";
 import fingerImage from "../../assets/finger.png";
 
 export function Headshots() {
-  const Headshots = [
+  const headshots = [
     {
       imageUrl: drinkImage,
     },
@@ -21,7 +21,7 @@ export function Headshots() {
     <Container id="headshots">
       <h2>My Headshots</h2>
       <div className="headshots">
-        {Headshots.map((headshot, index) => (
+        {headshots.map((headshot, index) => (
           <ScrollAnimation animateIn="flipInX" key={index}>
             <div className="headshot">
               <img src={headshot.imageUrl} alt={`Headshot ${index + 1}`} />
